@@ -3,13 +3,13 @@ package day0612;
 public class Parent {
 	int su = 300;
 	
-	void Parent() {
+	void hello() {
 		System.out.println("안녕");
 	}
-	void Parent(String name) {
+	void hello(String name) {
 		System.out.println("안녕 "+name);
 	}
-	void Pring() {
+	void print() {
 		System.out.println("부모");
 	}
 }
